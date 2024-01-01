@@ -1,0 +1,5 @@
+Composer install
+Composer self-update
+
+Php artisan serve
+npm run dev
